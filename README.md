@@ -7,7 +7,7 @@
 ![so-vits-svc](https://img.shields.io/badge/so--vits--svc-4.0-blue)
 ![MSST](https://img.shields.io/badge/MSST--GUI-v1.4-orange)
 ![License](https://img.shields.io/badge/license-Non--Commercial-red)
-
+[![Bilibili](https://img.shields.io/badge/Bilibili-BV1XSWB6dE8A-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1XSWB6dE8A)
 ![主视觉](assets/蓝色星瞳.png)
 
 ---
